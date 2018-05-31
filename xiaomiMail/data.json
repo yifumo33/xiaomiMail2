@@ -1,0 +1,39 @@
+{
+  
+    "phones":[
+      {
+      "productId":"100001",
+      "productName":"小米6",
+      "productPrice":2499,
+      "productImg":"/static/img/mi6.jpg"
+    },
+    {
+      "productId":"100002",
+      "productName":"小米5",
+      "productPrice":2099,
+      "productImg":"/static/img/mi5.jpg"
+
+    },
+    {
+      "productId":"100003",
+      "productName":"小米4",
+      "productPrice":1599,
+      "productImg":"/static/img/mi4.jpg"
+      
+    },{
+      "productId":"100004",
+      "productName":"小米3",
+      "productPrice":1099,
+      "productImg":"/static/img/mi3.jpg"
+      
+    },{
+      "productId":"100005",
+      "productName":"小米2",
+      "productPrice":599,
+      "productImg":"/static/img/mi2.jpg"
+      
+    }
+
+    ]
+  
+}
